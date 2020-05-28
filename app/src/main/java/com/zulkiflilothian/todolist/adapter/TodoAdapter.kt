@@ -1,4 +1,4 @@
-package com.zulfahmi.todolist.adapter
+package com.zulkiflilothian.todolist.adapter
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,10 +6,10 @@ import android.view.ViewGroup
 import android.widget.Filter
 import android.widget.Filterable
 import androidx.recyclerview.widget.RecyclerView
-import com.zulfahmi.todolist.R
-import com.zulfahmi.todolist.activity.MainActivity
-import com.zulfahmi.todolist.model.Todo
-import com.zulfahmi.todolist.util.Commons
+import com.zulkiflilothian.todolist.R
+import com.zulkiflilothian.todolist.activity.MainActivity
+import com.zulkiflilothian.todolist.model.Todo
+import com.zulkiflilothian.todolist.util.Commons
 import kotlinx.android.synthetic.main.item_empty.view.*
 import kotlinx.android.synthetic.main.item_row_todo.view.*
 import java.text.SimpleDateFormat

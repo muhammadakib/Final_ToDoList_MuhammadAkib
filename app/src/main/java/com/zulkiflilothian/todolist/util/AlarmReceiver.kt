@@ -1,4 +1,4 @@
-package com.zulfahmi.todolist.util
+package com.zulkiflilothian.todolist.util
 
 import android.app.AlarmManager
 import android.app.NotificationChannel
@@ -11,7 +11,7 @@ import android.media.RingtoneManager
 import android.os.Build
 import androidx.core.app.NotificationCompat
 import androidx.core.content.ContextCompat
-import com.zulfahmi.todolist.R
+import com.zulkiflilothian.todolist.R
 import java.text.ParseException
 import java.text.SimpleDateFormat
 import java.util.*
